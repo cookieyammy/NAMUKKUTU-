@@ -1,0 +1,6 @@
+{
+	"server-name": "My KKuTu Server Name", // 나의 끄투 서버 이름
+	"web-num-cpu": 1,
+	"game-num-cpu": 1,
+	"game-num-inst": 1 // 서버 갯수 (global.inc.json 에서 포트도 변경해야함.)
+}
